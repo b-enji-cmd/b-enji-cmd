@@ -4,6 +4,9 @@
     <li>
       <a href="#Who I Am">Who I Am</a>
     </li>
+    <li>
+      <a href="#🔭 I’m currently working on ...">Current Projects</a>
+    </li>
   </ul>
 </details>
 
