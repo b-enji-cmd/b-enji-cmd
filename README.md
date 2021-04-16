@@ -37,6 +37,5 @@ Not the other drudgery that comes from what social media brings.
 ### - 💬 Ask me about ...
 - Keyboards! `I love them dearly`
 - Gaming! `Lets play something!`
-### - 📫 How to reach me: ...
 
 
