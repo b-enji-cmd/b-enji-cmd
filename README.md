@@ -2,14 +2,12 @@
 # Hi there 👋
 ## _I'm Ben!_
 
-<details closed="closed">
-  <summary>Stats</summary>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-enji-cmd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   [![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-enji-cmd)](https://github.com/anuraghazra/github-readme-stats)
   
-</details>
+
 
 ### Who I Am
 I'm a software developer located in Denver, a proud graduate (still a student at the moment of writing this) of the Turing School of Software and Design. An amazing school that -over 1500 hours across 7 months- equips you with the tools and mindset to make your place in the world as a software developer. I love. Love. LOVE. Learning. It's my favorite thing to do, exploring new things and getting stuck is my typical way of doing things. 
