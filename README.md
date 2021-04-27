@@ -15,23 +15,24 @@ I'm a software developer located in Denver, a proud graduate (still a student at
 ---
 
 ### - 🔭 I’m currently working on ...
-> #### Level
+> #### Weather Sweather
 ```
-Level is a platform built by artists, for artists.
-Making collaborating with other locals easy, and centered around your content.
-Not the other drudgery that comes from what social media brings.
+You are a back-end developer working on a team that is building an application to plan road trips. This app will allow users to see the current weather as well as the forecasted weather at the destination.
+
+Your team is working in a service-oriented architecture. The front-end will communicate with your back-end through an API. Your job is to expose that API that satisfies the front-end team’s requirements.
 ```
 *Repositories*
-- [Backend](https://github.com/Level-turing-team/level_backend) : Built with Rails API 
-- [Front-End](https://github.com/Level-turing-team/level_front_end) : Built with Rails, Bootstrap, HTML, CSS
-- [Microservice](https://github.com/Level-turing-team/level-zipcode-microservice) : Sinatra microservice built with Ruby
+- [Backend](https://github.com/b-enji-cmd/weather-sweather) : Built with Rails API 
+
 
 
 ### - 🌱 I’m currently learning ...
-
 - Ruby on Rails
 - Sinatra
 - OAuth Handshake
+- AWS
+- Kubernetes
+- Crystal
 ### - 💬 Ask me about ...
 - Keyboards! `I love them dearly`
 - Gaming! `Lets play something!`
