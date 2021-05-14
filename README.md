@@ -34,7 +34,7 @@ identify places where they can improve
 - OAuth Handshake
 - AWS
 - Kubernetes
-- 
+
 ### - 💬 Ask me about ...
 - Keyboards! `I love them dearly`
 - Gaming! `Lets play something!`
