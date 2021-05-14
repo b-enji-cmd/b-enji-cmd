@@ -15,14 +15,16 @@ I'm a software developer located in Denver, a proud graduate (still a student at
 ---
 
 ### - 🔭 I’m currently working on ...
-> #### Weather Sweather
+> #### Mesh
 ```
-You are a back-end developer working on a team that is building an application to plan road trips. This app will allow users to see the current weather as well as the forecasted weather at the destination.
-
-Your team is working in a service-oriented architecture. The front-end will communicate with your back-end through an API. Your job is to expose that API that satisfies the front-end team’s requirements.
+Mesh is a platform built to consolidate and standardize feedback given throughout the course of your time at Turing. Students can see and reflect back on the 
+past feedback they have been given for every module and every project. Each module has a standardized grading rubric so every student is graded the same and can 
+identify places where they can improve
 ```
 *Repositories*
-- [Backend](https://github.com/b-enji-cmd/weather-sweather) : Built with Rails API 
+
+- [Backend](https://github.com/Turing-Mesh/mesh-backend) : Built with Rails API | Deployed with AWS Elastic Beanstalk | RDS Postgresql Relational Database |
+- [Frontend](https://github.com/Turing-Mesh/mesh-ui) : Built with Vue 
 
 
 
@@ -32,7 +34,7 @@ Your team is working in a service-oriented architecture. The front-end will comm
 - OAuth Handshake
 - AWS
 - Kubernetes
-- Crystal
+- 
 ### - 💬 Ask me about ...
 - Keyboards! `I love them dearly`
 - Gaming! `Lets play something!`
