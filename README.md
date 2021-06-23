@@ -23,7 +23,7 @@ identify places where they can improve
 ```
 *Repositories*
 
-- [Backend](https://github.com/Turing-Mesh/mesh-backend) : Built with Rails API | Deployed with AWS Elastic Beanstalk | RDS Postgresql Relational Database |
+- [Backend](https://github.com/Turing-Mesh/mesh-backend) : Built with Rails API
 - [Frontend](https://github.com/Turing-Mesh/mesh-ui) : Built with Vue 
 
 
